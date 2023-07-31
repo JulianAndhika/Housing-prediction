@@ -1,0 +1,5 @@
+# Housing-prediction
+Housing Project Prediction using Linear Regression, Random Forest Regressor, Lasso Model, and Decision Tree model
+
+Melakukan prediksi harga rumah di california menggunakan model regression. Dalam project ini, dependent variable kami adalah harga rumah yang berada di California, dan independent variable kami adalah data-data yang kami dapatkan dalam dataset. Dalam project ini kami menggunakan 4 model untuk memprediksi median_house_value, diantaranya model Linear Regression, Random Forest Regressor, Lasso Model, dan Decision Tree model. Keempat model tersebut kami gunakan untuk melakukan prediksi harga rumah dan menemukan model dengan tingkat akurasi yang terbaik berdasarkan dataset yang kami miliki. 
+Model Linear Regression yang kami gunakan menghasilkan akurasi 61% dan RMSE 71147.871 ketika memprediksi median_house_value. Untuk model Random Forest Regression, kami mendapatkan akurasi 80% dan RMSE 49981.905 ketika memprediksi median_house_value. Untuk model Lasso Regression, kami mendapatkan akurasi 61% dan RMSE 71147.746 ketika memprediksi median_house_value. Untuk model Decision Tree, kami mendapatkan akurasi 64% dan RMSE 68510.141.
